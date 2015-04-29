@@ -6,7 +6,7 @@ I'm Alexandra but feel free to call me Alex! What I lack in experience I more th
 
 #### Design
 
-Art and Design has always been an intrest of mine since childhood and in the world of web development I think I use this skill well in webpage layouts and logos.
+Art and Design has always been an interest of mine since childhood and in the world of web development I think I use this skill well in webpage layouts and logos.
 
 ##### FeastBeast Layout - 
 https://camo.githubusercontent.com/8469390e0dcf651d510ebe3b01edb95c4bdbc676/687474703a2f2f7331352e706f7374696d672e6f72672f796e676271346e697a2f53637265656e5f53686f745f323031355f30345f32305f61745f32305f35345f30392e706e67
@@ -14,12 +14,12 @@ https://camo.githubusercontent.com/8469390e0dcf651d510ebe3b01edb95c4bdbc676/6874
 ##### BeerPromise Logo -
 https://avatars0.githubusercontent.com/u/11629272?v=3&s=200
 
-#### Communications and working in Teams
+#### Communications and working in teams
 
-My friendly and open nature helps me to build good connections with people and I feel fulfilled working in a Team.
+My friendly and open nature helps me to build good connections with people and I feel fulfilled working in a team.
 
 - I worked with customers and in groups of fellow employees during my job in retail. Keeping the team attitude going, helping us to achieve what was wanted of us and more.
-- While working in groups during projects at Makers Academy, I was the first person my team mates went to for help with design and was always keen to help debugg. But also I was the team member reminding everyone to stay focused but in high spirits, even in troublesome situations.
+- While working in groups during projects at Makers Academy, I was the first person my teammates went to for help with design and was always keen to help debugg. But also I was the team member reminding everyone to stay focused but in high spirits, even in troublesome situations.
 
 ## Education
 
@@ -27,9 +27,9 @@ My friendly and open nature helps me to build good connections with people and I
 
 An intense 12 week web development course. Challenging yet immensely fun, I believe that I have gained the skills to begin my career as a junior developer and continue with my passion for code. We learnt how to programme using Object Orientated Design and Test Driven Development, also many technologies including:
 - Sinatra, Datamapper, PostgreSQL
-- API's
+- APIs
 - Git
-- Ruby, Rails, HTML, CSS, Javascript, jQuery, Node.js, Angular,js
+- Ruby, Rails, HTML, CSS, Javascript, jQuery, Node.js, Angular.js
 - Rspec, Jasmine, Capybara, Cucumber, Protractor
 
 #### College
@@ -41,10 +41,10 @@ Struggling to find my niche, before discovering computer programming, I delved i
 **Topman (October 2013 to December 2014)**  
 *Sales Advisor*
 
-##Hobbies and Intrests
+##Hobbies and Interests
 
 - I danced between the ages 5 to 16 and was graded in many forms of dance including, Ballet, Tap, Modern and Jazz.
-- I enjoyed learning and being graded in Singing, Piano and Flute.
+- I enjoyed learning and being graded in singing, piano and flute.
 - I also did examinations in solo acting and appeared in a few TV advertisements and films.
 - I have had 11 different hair colours, irrelevant, but I think impressive.
 
