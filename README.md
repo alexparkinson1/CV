@@ -49,5 +49,5 @@ Struggling to find my niche, before discovering computer programming, I delved i
 - I have had 11 different hair colours, irrelevant, but I think impressive.
 
 ## Contact me! :)
-Phone - 07876823461
-Email - alexeparkinson@gmail.com
+- Phone - 07876823461
+- Email - alexeparkinson@gmail.com
