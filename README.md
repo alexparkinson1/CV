@@ -1,46 +1,53 @@
-## Your Name
+## Alexandra Parkinson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm Alexandra but feel free to call me Alex! What I lack in experience I more than make up for in enthusiasm. I have a passion for code, design and reading a lot of books (Seriously, I read the twilight saga in 4 days, how embarrassing). To be able to work in an enviroment where I can improve my skills in code and design would be ideal. I heavily enjoy working in teams in a friendly, learning enviroment.
 
 ## Skills
 
-#### This Skill
+#### Design
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Art and Design has always been an intrest of mine since childhood and in the world of web development I think I use this skill well in webpage layouts and logos.
 
-- Experience
-- Achievements
-- Evidence
+##### FeastBeast Layout - 
+https://camo.githubusercontent.com/8469390e0dcf651d510ebe3b01edb95c4bdbc676/687474703a2f2f7331352e706f7374696d672e6f72672f796e676271346e697a2f53637265656e5f53686f745f323031355f30345f32305f61745f32305f35345f30392e706e67
 
-#### Another Skill
+##### BeerPromise Logo -
+https://avatars0.githubusercontent.com/u/11629272?v=3&s=200
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Communications and working in Teams
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My friendly and open nature helps me to build good connections with people and I feel fulfilled working in a Team.
+
+- I worked with customers and in groups of fellow employees during my job in retail. Keeping the team attitude going, helping us to achieve what was wanted of us and more.
+- While working in groups during projects at Makers Academy, I was the first person my team mates went to for help with design and was always keen to help debugg. But also I was the team member reminding everyone to stay focused but in high spirits, even in troublesome situations.
 
 ## Education
 
-#### Makers Academy (start_date to end-date)
+#### Makers Academy (January 2015 to April 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Mocha
+An intense 12 week web development course. Challenging yet immensely fun, I believe that I have gained the skills to begin my career as a junior developer and continue with my passion for code. We learnt how to programme using Object Orientated Design and Test Driven Development, also many technologies including:
+- Sinatra, Datamapper, PostgreSQL
+- API's
+- Git
+- Ruby, Rails, HTML, CSS, Javascript, jQuery, Node.js, Angular,js
+- Rspec, Jasmine, Capybara, Cucumber, Protractor
 
-#### Your University / College (start_date to end-date)
+#### College
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+Struggling to find my niche, before discovering computer programming, I delved into many different A level subjects during my time in 6th form college, including Philosophy, English, Fine Art, Classical Civilisation, Chemistry and Biology.
 
 ## Experience
 
-**Company Name (start_date to end-date)**  
-*Your job title*
+**Topman (October 2013 to December 2014)**  
+*Sales Advisor*
+
+##Hobbies and Intrests
+
+- I danced between the ages 5 to 16 and was graded in many forms of dance including, Ballet, Tap, Modern and Jazz.
+- I enjoyed learning and being graded in Singing, Piano and Flute.
+- I also did examinations in solo acting and appeared in a few TV advertisements and films.
+- I have had 11 different hair colours, irrelevant, but I think impressive.
+
+## Contact me! :)
+Phone - 07876823461
+Email - alexeparkinson@gmail.com
