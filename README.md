@@ -14,6 +14,8 @@ https://camo.githubusercontent.com/8469390e0dcf651d510ebe3b01edb95c4bdbc676/6874
 ##### BeerPromise Logo -
 https://avatars0.githubusercontent.com/u/11629272?v=3&s=200
 
+I also spent a couple of weeks at Central St Martins University doing courses in fashion desgin and theatre design (which includes costume design and layout of the stage). I am always interested in finding ways to improve my skills, and explore new potential interests.
+
 #### Communications and working in teams
 
 My friendly and open nature helps me to build good connections with people and I feel fulfilled working in a team.
