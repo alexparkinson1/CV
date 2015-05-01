@@ -1,6 +1,6 @@
 ## Alexandra Parkinson
 
-I'm Alexandra but feel free to call me Alex! What I lack in experience I more than make up for in enthusiasm. I have a passion for code, design and reading a lot of books (Seriously, I read the twilight saga in 4 days, how embarrassing). To be able to work in an enviroment where I can improve my skills in code and design would be ideal. I heavily enjoy working in teams in a friendly, learning enviroment.
+I'm Alexandra but feel free to call me Alex! What I lack in experience I more than make up for in enthusiasm. I have a passion for code, design and reading a lot of books (Seriously, I read the twilight saga in 4 days, how embarrassing). To be able to work in an environment where I can improve my skills in code and design would be ideal. I heavily enjoy working in teams in a friendly, learning environment.
 
 ## Skills
 
