@@ -49,7 +49,3 @@ Struggling to find my niche, before discovering computer programming, I delved i
 - I enjoyed learning and being graded in singing, piano and flute.
 - I also did examinations in solo acting and appeared in a few TV advertisements and films.
 - I have had 11 different hair colours, irrelevant, but I think impressive.
-
-## Contact me! :)
-- Phone - 07876823461
-- Email - alexeparkinson@gmail.com
