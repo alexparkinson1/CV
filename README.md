@@ -1,6 +1,6 @@
 ## Alexandra Parkinson
 
-I have a passion for code, design and new, shiny tech. To be able to work in an environment where I will be learning every day, will be making really cool stuff and will be making valuable contributions to a project would be a dream come true. I'm looking to work with people who also share my passion for programming.
+I have a passion for code, design and new, shiny tech. To be able to work in an environment where I will be learning every day, will be making really cool stuff and will be making valuable contributions to a project would be a dream come true. I'm looking to work with people who also share my devotion for programming.
 
 ## Skills
 
