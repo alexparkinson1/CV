@@ -11,11 +11,11 @@ I love the feeling that when I write a line of code I'm creating something. I'm 
 My skill set includes:
  - Ruby, Ruby on rails
  - Javascript, jQuery
- - Golang
- - PHP
  - Angular.js
  - Node.js
  - Rspec, Jasmine, Capybara, Cucumber
+ - Golang
+ - PHP
  - Sinatra
 
 #### Front end and responsive design
